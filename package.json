@@ -1,0 +1,29 @@
+{
+  "name": "blog-restify",
+  "version": "1.0.0",
+  "description": "\u001b\u001b''''sCreate blog with Nodejs and Restify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jefter/blog-restify.git"
+  },
+  "keywords": [
+    "restify",
+    "nodejs",
+    "blog",
+    "nodejs"
+  ],
+  "author": "Jeftar Mascarenhas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jefter/blog-restify/issues"
+  },
+  "homepage": "https://github.com/jefter/blog-restify#readme",
+  "dependencies": {
+    "mongoose": "^4.4.2",
+    "restify": "^4.0.3"
+  }
+}
